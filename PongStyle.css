@@ -1,0 +1,16 @@
+ul li{
+	list-style: none;
+	display: inline-block;
+	margin: 0px;
+}
+
+li {
+	font-family: Impact;
+	margin: 10px;
+	padding-left: 0;
+	padding-right: 200px;
+}
+
+div {
+	margin:0;
+}
